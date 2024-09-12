@@ -13,13 +13,12 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
 <img align="right" alt="img" src="https://github.com/zzzzzyh111/zzzzzyh111/blob/main/figs/sylvain-sarrailh-basketballartstation.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Exploring deep reinforcement learning algorithms for multi-agent systems 
+- Exploring DRL algorithms for multi-agent systems 
 - Developing pixel-to-action algorithms for UAVs
-- Experimenting with visual language models for UAV applications
-- 
+- Experimenting with VLMs for UAV applications
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zzzzzyh111&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zzzzzyh111&show_icons=true&hide_border=true"/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
