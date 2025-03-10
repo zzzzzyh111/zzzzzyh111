@@ -28,7 +28,7 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 </p>
 <p>
-<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzzzyh111&show_icons=true&locale=en&layout=compact" alt="zzzzzyh111" 
+<img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzzzyh111&show_icons=true&locale=en&layout=compact" alt="zzzzzyh111" 
 />
 
 
