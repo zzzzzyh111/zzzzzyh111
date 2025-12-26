@@ -7,7 +7,7 @@
 Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D. degree at Nanyang Technological University.  
 
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzzzzyh111" alt="zzzzzyh111" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=zzzzzyh111" alt="zzzzzyh111" /></a> 
 </p>
  
 <img align="right" alt="img" src="https://github.com/zzzzzyh111/zzzzzyh111/blob/main/figs/sylvain-sarrailh-basketballartstation.jpg" width="50%" height="auto" />
