@@ -40,10 +40,10 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
  
 #### 🎓 My Followers:
 <!--START_SECTION:top-followers-->
-<table>
+<table align="center">
   <tr>
     <td align="center">
-     <a href="https://github.com/xxxxxwf111">
+      <a href="https://github.com/xxxxxwf111">
         <img src="https://avatars.githubusercontent.com/u/116097372?v=4" width="100px;" alt="xxxxxwf111"/>
       </a>
       <br />
@@ -54,7 +54,7 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
         <img src="https://avatars.githubusercontent.com/u/19664995?v=4" width="100px;" alt="xjp99v5"/>
       </a>
       <br />
-      <a href="https://github.com/YUJ0E">xjp99v5</a>
+      <a href="https://github.com/xjp99v5">xjp99v5</a>
     </td>
     <td align="center">
       <a href="https://github.com/YUJ0E">
@@ -64,11 +64,11 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
       <a href="https://github.com/YUJ0E">YUJ0E</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JokerJalonyao ">
-        <img src="https://avatars.githubusercontent.com/u/72678387?v=4" width="100px;" alt="JokerJalonyao "/>
+      <a href="https://github.com/JokerJalonyao">
+        <img src="https://avatars.githubusercontent.com/u/72678387?v=4" width="100px;" alt="JokerJalonyao"/>
       </a>
       <br />
-      <a href="https://github.com/JokerJalonyao ">JokerJalonyao </a>
+      <a href="https://github.com/JokerJalonyao">JokerJalonyao</a>
     </td>
     <td align="center">
       <a href="https://github.com/YongzhouPan">
@@ -80,7 +80,12 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
   </tr>
 </table>
 
- 
+
+ <p align="center">
+	<img width="250" src="https://github.com/zzzzzyh111/zzzzzyh111/blob/main/figs/xiaoxin1.gif" />&emsp;
+	<img src="https://github.com/zzzzzyh111/zzzzzyh111/blob/main/figs/xiaoxin2.gif" alt="Man Lifting Weights" width="250" height="250" />
+	&emsp;<img width="250" src="https://github.com/zzzzzyh111/zzzzzyh111/blob/main/figs/xiaoxin3.gif" />
+</p>
  
 
  
