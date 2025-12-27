@@ -7,7 +7,7 @@
 Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D. degree at Nanyang Technological University.  
 
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=zzzzzyh111" alt="zzzzzyh111" /></a> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=zzzzzyh111&theme=onedark" alt="zzzzzyh111" /></a> 
 </p>
  
 <img align="right" alt="img" src="https://github.com/zzzzzyh111/zzzzzyh111/blob/main/figs/sylvain-sarrailh-basketballartstation.jpg" width="50%" height="auto" />
@@ -18,6 +18,7 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
 - Experimenting with VLMs for UAV applications
 #### :computer: Programming languages and tools :computer: : 
 <p>
+<img width="50%" align="right" src="https://zyhstats.vercel.app/api?username=zzzzzyh111&show_icons=true&hide_border=true&theme=dracula"/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
@@ -27,9 +28,8 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 </p>
 <p>
-[![GitHub stats](https://zyhstats.vercel.app/api?username=zzzzzyh111&theme=onedark&show_icons=true)](https://github.com/zzzzzyh111)
-
-
+<img width="35%" align="left" src="https://zyhstats.vercel.app/api/top-langs/?username=zzzzzyh111&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,JavaScript,Shell&theme=dracula" alt="zzzzzyh111" 
+/>
 
  
  
