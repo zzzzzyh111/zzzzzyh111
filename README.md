@@ -34,7 +34,7 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 </p>
 <p>
-<img width="35%" align="left" src="https://zyhstats.vercel.app/api/top-langs/?username=zzzzzyh111&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,JavaScript,Shell&theme=dracula" alt="zzzzzyh111" 
+<img width="35%" align="left" src="https://zyhstats.vercel.app/api/top-langs/?username=zzzzzyh111&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,JavaScript,Shell,HTML&theme=dracula" alt="zzzzzyh111" 
 />
 <br clear="both" />
  
