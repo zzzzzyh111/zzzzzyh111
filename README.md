@@ -77,6 +77,13 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
       <br />
       <a href="https://github.com/YongzhouPan">YongzhouPan</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/EugShang">
+        <img src="https://avatars.githubusercontent.com/u/168304479?v=4" width="100px;" alt="EugShang"/>
+      </a>
+      <br />
+      <a href="https://github.com/EugShang">EugShang</a>
+    </td>
   </tr>
 </table>
 
