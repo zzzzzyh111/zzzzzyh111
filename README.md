@@ -9,7 +9,7 @@ Welcome to my GitHub page! I am Yuhang Zhang and I am currently pursuing my Ph.D
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy-sandy.vercel.app/?username=zzzzzyh111&theme=onedark"
+      src="https://github-profile-trophy-sandy.vercel.app/?username=zzzzzyh111&theme=onedark&title=-MultiLanguage"
       alt="zzzzzyh111"
       width="100%"
     />
