@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+[![Homepage](https://img.shields.io/badge/-Homepage-8E44AD?style=flat&logo=googlechrome&logoColor=white)](https://yuhangzhang.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zzzzzyh111)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuhang-zhang-422a47279/)
 [![Email](https://img.shields.io/badge/-Email-30B980?style=flat&logo=maildotru&logoColor=white)](mailto:yuhang004@e.ntu.edu.sg)
